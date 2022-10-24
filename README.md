@@ -19,7 +19,7 @@ A Java Socket application for Bully Algorithm for dynamically electing a coordin
 git clone https://github.com/EngAbdelrahmanMagdi/Java-Bully-Algorithm.git
 ```
 - Open Java IDE (Eclipse is recommended)
-- File => Open Project from folder directory => specify the directory => Finish 
+- File => Open Project from folder directory => specify the directory => Finish => Select main.java as the main class => ok  
 - Click on the Project then Run as Java Application
 
 
